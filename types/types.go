@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/the-mhdi/block/ed"
+	"github.com/the-mhdi/block/crypto/ed25519/ed"
 )
 
 const (

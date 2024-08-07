@@ -1,4 +1,4 @@
-module github.com/the-mhdi/crypto
+module github.com/the-mhdi/block/crypto
 
 go 1.22.2
 
